@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Compliance dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a1cd26e1-3f98-437a-9880-347d5a70cc24"
+  }
+}
